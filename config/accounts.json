@@ -1,0 +1,12 @@
+[
+  {
+    "username": "username",
+    "password": "password",
+    "proxy": {
+      "address": "proxyaddress",
+      "port": "10000",
+      "username": "proxyusername",
+      "password": "proxypassword"
+    }
+  }
+]
